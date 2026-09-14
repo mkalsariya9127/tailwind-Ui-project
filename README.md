@@ -38,4 +38,4 @@ A pixel-perfect, mobile-responsive landing page and UI component showcase crafte
 ---
 
 ## 👤 Author
-- **Milan Klasariya** - [GitHub Profile](https://github.com/mkalsariya9127)
+- **Milan Kalsariya** - [GitHub Profile](https://github.com/mkalsariya9127)
